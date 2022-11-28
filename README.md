@@ -13,6 +13,8 @@
 * **Ejemplo** Transmisión de datos seriales por el microcontrolador. [Ver -> GitHub](https://github.com/crelec/EjemploPuertoSerial_TX)
 * **Ejemplo** Recepción de un dato serial por el microcontrolador. [Ver -> GitHub](https://github.com/crelec/EjemploPuertoSerial_RX)
 * **Ejemplo** Recepción de una cadena de datos seriales por el microcontrolador. [Ver -> GitHub](https://github.com/crelec/EjemploPuertoSerial_RX_V1)
+## Lectura Datos análogos.
+* **Ejemplo** Lectura pin análogo y visualización en puerto serial. [Ver -> GitHub](https://github.com/crelec/EjemploEntradaAnaloga1)
 ## Uso Timer.
 * **Ejemplo** Medición del tiempo transcurrido usando Timer. [Ver -> GitHub](https://github.com/crelec/EjemploUsoTimer)
 ## Uso Sensor Ultrasónico HC-SR04.
