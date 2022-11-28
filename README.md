@@ -5,3 +5,4 @@
 * **Ejemplo Cuatro:** Enviar datos al bus de salida (Pines micro) e impresión en el puerto serial. [Ver -> GitHub](https://github.com/crelec/EjemploBoton5)
 * **Ejemplo Cinco:** Leer un botón usando interrupciones. [Ver -> GitHub](https://github.com/crelec/EjemploBoton3)
 * **Ejemplo** Decodificación display siete segmentos [Ver -> GitHub](https://github.com/crelec/EjemploDisplay7_1)
+* **Ejemplo** Contador libre en display siete segmentos de 0 a 9999 
