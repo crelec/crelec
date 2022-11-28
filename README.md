@@ -6,3 +6,4 @@
 * **Ejemplo Cinco:** Leer un botón usando interrupciones. [Ver -> GitHub](https://github.com/crelec/EjemploBoton3)
 * **Ejemplo** Decodificación display siete segmentos [Ver -> GitHub](https://github.com/crelec/EjemploDisplay7_1)
 * **Ejemplo** Contador libre en display siete segmentos de 0 a 9999 [Ver -> GitHub](https://github.com/crelec/EjemploDisplay7Mux)
+* **Ejemplo** Display LCD DE 16 columnas y dos filas HD44780. [Ver -> GitHub](https://github.com/crelec/LCD_Base)
