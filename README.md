@@ -9,6 +9,6 @@
 * **Ejemplo** Display LCD DE 16 columnas y dos filas HD44780. [Ver -> GitHub](https://github.com/crelec/LCD_Base)
 * **Ejemplo** Transmisión de datos seriales por el microcontrolador [Ver -> GitHub](https://github.com/crelec/EjemploPuertoSerial_TX)
 * **Ejemplo** Recepción de un dato serial por el microcontrolador [Ver -> GitHub](https://github.com/crelec/EjemploPuertoSerial_RX)
-* **Ejemplo** Recepción de una cadena de datos seriales por el microcontrolador [Ver -> https://github.com/crelec/EjemploPuertoSerial_RX_V1)
+* **Ejemplo** Recepción de una cadena de datos seriales por el microcontrolador [Ver -> GitHub](https://github.com/crelec/EjemploPuertoSerial_RX_V1)
 * **Ejemplo** Sensor Ultrasónico HC-SR04 sin RTOS. [Ver -> GitHub](https://github.com/crelec/EjemploUltrasonicoHCSR-V0)
 * **Ejemplo** Sensor Ultrasónico HC-SR04 con RTOS. [Ver -> GitHub](https://github.com/crelec/EjemploUltrasonicoHCSR-V1)
