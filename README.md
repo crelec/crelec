@@ -7,5 +7,6 @@
 * **Ejemplo** Decodificación display siete segmentos [Ver -> GitHub](https://github.com/crelec/EjemploDisplay7_1)
 * **Ejemplo** Contador libre en display siete segmentos de 0 a 9999 [Ver -> GitHub](https://github.com/crelec/EjemploDisplay7Mux)
 * **Ejemplo** Display LCD DE 16 columnas y dos filas HD44780. [Ver -> GitHub](https://github.com/crelec/LCD_Base)
+* **Ejemplo** Transmisión de datos seriales por el microcontrolador [Ver -> GitHub](https://github.com/crelec/EjemploPuertoSerial_TX)
 * **Ejemplo** Sensor Ultrasónico HC-SR04 sin RTOS. [Ver -> GitHub](https://github.com/crelec/EjemploUltrasonicoHCSR-V0)
 * **Ejemplo** Sensor Ultrasónico HC-SR04 con RTOS. [Ver -> GitHub](https://github.com/crelec/EjemploUltrasonicoHCSR-V1)
