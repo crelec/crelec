@@ -10,7 +10,7 @@
 * **Ejemplo** Contador libre en display siete segmentos de 0 a 9999. [Ver -> GitHub](https://github.com/crelec/EjemploDisplay7Mux)
 ## Uso Display LCD HD44780.
 * **Ejemplo** Display LCD DE 16 columnas y dos filas HD44780. [Ver -> GitHub](https://github.com/crelec/LCD_Base)
-## Tareas periodicas en RTOS.
+## Tareas periódicas en RTOS.
 * **Ejemplo** Muestro el concepto de tareas periódicas y prioridad de tarea en RTOS. [Ver -> GitHub](https://github.com/crelec/EjemploTareaPeriodica)
 ## Transmisión y recepción de datos seriales.
 * **Ejemplo** Transmisión de datos seriales por el microcontrolador. [Ver -> GitHub](https://github.com/crelec/EjemploPuertoSerial_TX)
