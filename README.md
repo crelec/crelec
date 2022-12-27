@@ -10,6 +10,7 @@
 * **Ejemplo** Contador libre en display siete segmentos de 0 a 9999. [Ver -> GitHub](https://github.com/crelec/EjemploDisplay7Mux)
 * **Ejemplo** Función para presentación de números en el rango 0 a 9999.[Ver -> GitHub](https://github.com/crelec/EjemploDisplay7_2)
 * **Ejemplo** envío números de cuatro digitos 0 a 9999 por serial y visualizo en display.[Ver -> GitHub](https://github.com/crelec/EjemploDisplay7_3)
+* **Ejemplo** Cartel publicitario utilizando RTOS.[Ver -> GitHub](https://github.com/crelec/EjemploDisplay7_4)
 ## Uso Display LCD HD44780.
 * **Ejemplo** Display LCD DE 16 columnas y dos filas HD44780. [Ver -> GitHub](https://github.com/crelec/LCD_Base)
 ## Tareas periódicas en RTOS.
