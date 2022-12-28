@@ -13,6 +13,7 @@
 * **Ejemplo** Cartel publicitario utilizando RTOS.[Ver -> GitHub](https://github.com/crelec/EjemploDisplay7_4)
 ## Uso Display LCD HD44780.
 * **Ejemplo** Display LCD DE 16 columnas y dos filas HD44780. [Ver -> GitHub](https://github.com/crelec/LCD_Base)
+* **Ejemplo** Envía caracteres por serial y visualizo en LCD HD44780. [Ver -> GitHub](https://github.com/crelec/LCD_V0)
 ## Tareas periódicas en RTOS.
 * **Ejemplo** Muestro el concepto de tareas periódicas y prioridad de tarea en RTOS. [Ver -> GitHub](https://github.com/crelec/EjemploTareaPeriodica)
 ## Transmisión y recepción de datos seriales.
