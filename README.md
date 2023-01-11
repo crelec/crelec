@@ -27,6 +27,7 @@
 ## Uso Sensor Ultrasónico HC-SR04.
 * **Ejemplo** Sensor Ultrasónico HC-SR04 sin RTOS. [Ver -> GitHub](https://github.com/crelec/EjemploUltrasonicoHCSR-V0)
 * **Ejemplo** Sensor Ultrasónico HC-SR04 con RTOS. [Ver -> GitHub](https://github.com/crelec/EjemploUltrasonicoHCSR-V1)
-## Aplicación comunicación SPI.
+## Aplicación comunicación SPI, I2C.
 * **Ejemplo** Medición de temperatura usando Max6675, thermocouple-k e impresión en puerto serial sin RTOS.[Ver -> GitHub](https://github.com/crelec/TermoCupla_V0)
 * **Ejemplo** Medición de temperatura usando Max6675, thermocouple-k e impresión en puerto serial usando RTOS.[Ver -> GitHub](https://github.com/crelec/TermoCupla_V1)
+* **Ejemplo** Control por comunicación serial de potenciometro digital X9C103 usando RTOS.[Ver -> GitHub](https://github.com/crelec/Pot-Digital)
