@@ -25,6 +25,7 @@
 * **Ejemplo** Lectura pin análogo y visualización en puerto serial para LM-35 [Ver -> GitHub](https://github.com/crelec/Ejemplo-LM35)
 ## Modulación ancho de pulso.
 * **Ejemplo** Generación señal de 50HZ cambiado el ciclo de trabajo.[Ver -> GitHub](https://github.com/crelec/EjemploPWM-Base)
+* **Ejemplo** Control Básico de posición micro servo SG90. [Ver -> GitHub](https://github.com/crelec/EjemploPWM-Servo)
 ## Uso Timer.
 * **Ejemplo** Medición del tiempo transcurrido usando Timer. [Ver -> GitHub](https://github.com/crelec/EjemploUsoTimer)
 ## Uso Sensor Ultrasónico HC-SR04.
