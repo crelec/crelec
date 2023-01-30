@@ -23,6 +23,8 @@
 ## Lectura Datos análogos.
 * **Ejemplo** Lectura pin análogo y visualización en puerto serial para potenciometro angular [Ver -> GitHub](https://github.com/crelec/Ejemplo-Potenciometro)
 * **Ejemplo** Lectura pin análogo y visualización en puerto serial para LM-35 [Ver -> GitHub](https://github.com/crelec/Ejemplo-LM35)
+## Modulación ancho de pulso.
+* **Ejemplo** Generación señal de 50HZ cambiado el ciclo de trabajo.[Ver -> GitHub](https://github.com/crelec/EjemploPWM-Base)
 ## Uso Timer.
 * **Ejemplo** Medición del tiempo transcurrido usando Timer. [Ver -> GitHub](https://github.com/crelec/EjemploUsoTimer)
 ## Uso Sensor Ultrasónico HC-SR04.
