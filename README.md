@@ -35,3 +35,6 @@
 * **Ejemplo** Medición de temperatura usando Max6675, thermocouple-k e impresión en puerto serial sin RTOS.[Ver -> GitHub](https://github.com/crelec/TermoCupla_V0)
 * **Ejemplo** Medición de temperatura usando Max6675, thermocouple-k e impresión en puerto serial usando RTOS.[Ver -> GitHub](https://github.com/crelec/TermoCupla_V1)
 * **Ejemplo** Control por comunicación serial de potenciometro digital X9C103 usando RTOS.[Ver -> GitHub](https://github.com/crelec/Pot-Digital)
+## Aplicación Max7219.
+* **Ejemplo** Uso Max7219 en display de siete segmentos.[Ver -> GitHub](https://github.com/crelec/Ejemplo-Max7219-7segmentos)
+
