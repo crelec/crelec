@@ -54,6 +54,18 @@ Mi objetivo es servir como **fuente de referencia en español**, en un área don
 
 ---
 
+## 📜 Licencia
+
+Este material se distribuye bajo la licencia  
+**Creative Commons Atribución – No Comercial – Compartir Igual 4.0 Internacional
+(CC BY-NC-SA 4.0)**.
+
+Se permite su uso, adaptación y distribución con fines educativos y académicos,
+siempre que se reconozca la autoría y no se utilice con fines comerciales.
+
+👉 Ver archivo [LICENSE](LICENSE)
+---
+
 ### Contacto
 
 - 📧 Correo: ceroma175@gmail.com  
