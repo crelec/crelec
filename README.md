@@ -26,7 +26,7 @@ Mi objetivo es servir como **fuente de referencia en español**, en un área don
 
 ### Repositorios
 
-- ⚙️ **Diseño digital en FPGA (Basys3 – Vivado)**  
+- ⚙️ **Diseño digital en FPGA (Basys3 – Vivado 2023.1.1 - VHDL IEEE 1076-2008)**  
   Ejemplos de diseño combinacional, secuencial y máquinas de estado en VHDL.  
   👉 https://github.com/crelec/VHDL-Basys3
 
